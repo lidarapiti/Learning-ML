@@ -1,3 +1,3 @@
 # Certificates
 
-This folder contains all of my coursera certifications from various courses, showcasing my skills and achievements.
+This folder contains all of my coursera certifications from the two programs i took, showcasing my skills in Data Science and Machine Learning.

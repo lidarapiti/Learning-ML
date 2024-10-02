@@ -5,4 +5,5 @@ This repository contains a collection of machine learning projects:
 2. RAG system,
 3. API call
 
-Each project includes a description and links of the sources that helped me complete them
+Each project includes a description and links of the sources that helped me complete them.
+(All of the notebooks were created in google colab)
